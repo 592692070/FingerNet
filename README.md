@@ -16,7 +16,7 @@ FingerNet is released under the MIT License (refer to the LICENSE file for detai
 
 If you find FingerNet useful in your research, please consider citing:
 
-    @article{tang2017FingerNet,
+    @inporceedings{tang2017FingerNet,
         Author = {Tang, Yao and Gao, Fei and Feng, Jufu and Liu, Yuhang},
         Title = {FingerNet: An Unified Deep Network for Fingerprint Minutiae Extraction},
         booktitle = {Biometrics (IJCB), 2017 IEEE International Joint Conference on},
